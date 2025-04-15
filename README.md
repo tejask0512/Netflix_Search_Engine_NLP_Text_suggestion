@@ -91,8 +91,12 @@ And you'll see suggestions like:
 - Stranger Things
 
 ---
+## Watch Demo
+'''
+
 [![Watch the Demo](preview.png)](https://drive.google.com/file/d/1MRHpqmi39YexdbfXPVaHLS66k6OjgcEg/view?usp=sharing)
 
+'''
 
 ## 💡 Future Improvements
 
