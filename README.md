@@ -91,7 +91,7 @@ And you'll see suggestions like:
 - Stranger Things
 
 ---
-## Watch Demo
+## Watch Demo(Click on the image)
 '''
 
 [![Watch the Demo](preview.png)](https://drive.google.com/file/d/1MRHpqmi39YexdbfXPVaHLS66k6OjgcEg/view?usp=sharing)
