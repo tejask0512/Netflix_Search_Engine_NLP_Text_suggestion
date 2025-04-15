@@ -1,6 +1,3 @@
-Here's a detailed and professional `README.md` file for your GitHub repository: **[Netflix_Search_Engine_NLP_Text_suggestion](https://github.com/tejask0512/Netflix_Search_Engine_NLP_Text_suggestion)**.
-
-You can copy and paste this directly into your repository:
 
 ---
 
